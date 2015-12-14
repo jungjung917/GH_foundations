@@ -1,2 +1,2 @@
 # GH_foundations
-practice creating repositories for foundation classes
+to practice creating repositories for foundation classes
